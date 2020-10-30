@@ -3,5 +3,6 @@ class test33{
     {
         System.out.println("aaaahhhhhhh");
         System.out.println("aaaaasdasdadadhhhhhhh");
+        System.out.println("aaaahhhhhhh");
     }
 }
